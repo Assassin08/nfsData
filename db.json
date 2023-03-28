@@ -1,100 +1,102 @@
 {
-"Elements": [
-{
-"CardImg": "https://nftimgs.netlify.app/Base-1.svg",
-"CollectionName": "Collection name",
-"FullName": "NFT name Ex Shiba Astronaut",
-"LeftPrice": "Price",
-"LeftETH": "1.0 ETH",
-"LeftDollar": "$130,729.12",
-"RightOffer": "Best offer",
-"RightETH": "1.5 ETH",
-"RightHour": "4hrs left",
-"Id": 1
-},
-{
-"CardImg": "https://nftimgs.netlify.app/Base-2.svg",
-"CollectionName": "Collection name",
-"FullName": "NFT name Ex Shiba Astronaut",
-"LeftPrice": "Price",
-"LeftETH": "1.0 ETH",
-"LeftDollar": "$130,729.12",
-"RightOffer": "Best offer",
-"RightETH": "1.5 ETH",
-"RightHour": "4hrs left",
-"Id": 2
-},
-{
-"CardImg": "https://nftimgs.netlify.app/Base.svg",
-"CollectionName": "Collection name",
-"FullName": "NFT name Ex Shiba Astronaut",
-"LeftPrice": "Price",
-"LeftETH": "1.0 ETH",
-"LeftDollar": "$130,729.12",
-"RightOffer": "Best offer",
-"RightETH": "1.5 ETH",
-"RightHour": "4hrs left",
-"Id": 3
-},
-{
-"CardImg": "https://nftimgs.netlify.app/Image-1.svg",
-"CollectionName": "Collection name",
-"FullName": "NFT name Ex Shiba Astronaut",
-"LeftPrice": "Price",
-"LeftETH": "1.0 ETH",
-"LeftDollar": "$130,729.12",
-"RightOffer": "Best offer",
-"RightETH": "1.5 ETH",
-"RightHour": "4hrs left",
-"Id": 4
-},
-{
-"CardImg": "https://nftimgs.netlify.app/Base.svg",
-"CollectionName": "Collection name",
-"FullName": "NFT name Ex Shiba Astronaut",
-"LeftPrice": "Price",
-"LeftETH": "1.0 ETH",
-"LeftDollar": "$130,729.12",
-"RightOffer": "Best offer",
-"RightETH": "1.5 ETH",
-"RightHour": "4hrs left",
-"Id": 5
-},
-{
-"CardImg": "https://nftimgs.netlify.app/Image-4.svg",
-"CollectionName": "Collection name",
-"FullName": "NFT name Ex Shiba Astronaut",
-"LeftPrice": "Price",
-"LeftETH": "1.0 ETH",
-"LeftDollar": "$130,729.12",
-"RightOffer": "Best offer",
-"RightETH": "1.5 ETH",
-"RightHour": "4hrs left",
-"Id": 6
-},
-{
-"CardImg": "https://nftimgs.netlify.app/Base-1.svg",
-"CollectionName": "Collection name",
-"FullName": "NFT name Ex Shiba Astronaut",
-"LeftPrice": "Price",
-"LeftETH": "1.0 ETH",
-"LeftDollar": "$130,729.12",
-"RightOffer": "Best offer",
-"RightETH": "1.5 ETH",
-"RightHour": "4hrs left",
-"Id": 7
-},
-{
-"CardImg": "https://nftimgs.netlify.app/Base-1.svg",
-"CollectionName": "Collection name",
-"FullName": "NFT name Ex Shiba Astronaut",
-"LeftPrice": "Price",
-"LeftETH": "1.0 ETH",
-"LeftDollar": "$130,729.12",
-"RightOffer": "Best offer",
-"RightETH": "1.5 ETH",
-"RightHour": "4hrs left",
-"Id": 8
+  "Elements": [
+    {
+      "CardImg": "https://nftimgs.netlify.app/Base-1.svg",
+      "CollectionName": "Collection name",
+      "FullName": "NFT name Ex Shiba Astronaut",
+      "LeftPrice": "Price",
+      "LeftETH": "1.0 ETH",
+      "LeftDollar": "$130,729.12",
+      "RightOffer": "Best offer",
+      "RightETH": "1.5 ETH",
+      "RightHour": "4hrs left",
+      "id": 1
+    },
+    {
+      "CardImg": "https://nftimgs.netlify.app/Base-2.svg",
+      "CollectionName": "Collection name",
+      "FullName": "NFT name Ex Shiba Astronaut",
+      "LeftPrice": "Price",
+      "LeftETH": "1.0 ETH",
+      "LeftDollar": "$130,729.12",
+      "RightOffer": "Best offer",
+      "RightETH": "1.5 ETH",
+      "RightHour": "4hrs left",
+      "id": 2
+    },
+    {
+      "CardImg": "https://nftimgs.netlify.app/Base.svg",
+      "CollectionName": "Collection name",
+      "FullName": "NFT name Ex Shiba Astronaut",
+      "LeftPrice": "Price",
+      "LeftETH": "1.0 ETH",
+      "LeftDollar": "$130,729.12",
+      "RightOffer": "Best offer",
+      "RightETH": "1.5 ETH",
+      "RightHour": "4hrs left",
+      "id": 3
+    },
+    {
+      "CardImg": "https://nftimgs.netlify.app/Image-1.svg",
+      "CollectionName": "Collection name",
+      "FullName": "NFT name Ex Shiba Astronaut",
+      "LeftPrice": "Price",
+      "LeftETH": "1.0 ETH",
+      "LeftDollar": "$130,729.12",
+      "RightOffer": "Best offer",
+      "RightETH": "1.5 ETH",
+      "RightHour": "4hrs left",
+      "id": 4
+    },
+    {
+      "CardImg": "https://nftimgs.netlify.app/Base.svg",
+      "CollectionName": "Collection name",
+      "FullName": "NFT name Ex Shiba Astronaut",
+      "LeftPrice": "Price",
+      "LeftETH": "1.0 ETH",
+      "LeftDollar": "$130,729.12",
+      "RightOffer": "Best offer",
+      "RightETH": "1.5 ETH",
+      "RightHour": "4hrs left",
+      "id": 5
+    },
+    {
+      "CardImg": "https://nftimgs.netlify.app/Image-4.svg",
+      "CollectionName": "Collection name",
+      "FullName": "NFT name Ex Shiba Astronaut",
+      "LeftPrice": "Price",
+      "LeftETH": "1.0 ETH",
+      "LeftDollar": "$130,729.12",
+      "RightOffer": "Best offer",
+      "RightETH": "1.5 ETH",
+      "RightHour": "4hrs left",
+      "id": 6
+    },
+    {
+      "CardImg": "https://nftimgs.netlify.app/Base-1.svg",
+      "CollectionName": "Collection name",
+      "FullName": "NFT name Ex Shiba Astronaut",
+      "LeftPrice": "Price",
+      "LeftETH": "1.0 ETH",
+      "LeftDollar": "$130,729.12",
+      "RightOffer": "Best offer",
+      "RightETH": "1.5 ETH",
+      "RightHour": "4hrs left",
+      "id": 7
+    },
+    {
+      "CardImg": "https://nftimgs.netlify.app/Base-1.svg",
+      "CollectionName": "Collection name",
+      "FullName": "NFT name Ex Shiba Astronaut",
+      "LeftPrice": "Price",
+      "LeftETH": "1.0 ETH",
+      "LeftDollar": "$130,729.12",
+      "RightOffer": "Best offer",
+      "RightETH": "1.5 ETH",
+      "RightHour": "4hrs left",
+      "id": 8
+    }
+  ]
 }
-]
+
 }
